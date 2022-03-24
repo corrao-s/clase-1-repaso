@@ -1,0 +1,14 @@
+D:\Santiago\EEST1\2022-7B-PDISC\clase-1-repaso\Repaso\bin\Debug\netcoreapp3.1\Repaso.exe
+D:\Santiago\EEST1\2022-7B-PDISC\clase-1-repaso\Repaso\bin\Debug\netcoreapp3.1\Repaso.deps.json
+D:\Santiago\EEST1\2022-7B-PDISC\clase-1-repaso\Repaso\bin\Debug\netcoreapp3.1\Repaso.runtimeconfig.json
+D:\Santiago\EEST1\2022-7B-PDISC\clase-1-repaso\Repaso\bin\Debug\netcoreapp3.1\Repaso.runtimeconfig.dev.json
+D:\Santiago\EEST1\2022-7B-PDISC\clase-1-repaso\Repaso\bin\Debug\netcoreapp3.1\Repaso.dll
+D:\Santiago\EEST1\2022-7B-PDISC\clase-1-repaso\Repaso\bin\Debug\netcoreapp3.1\Repaso.pdb
+D:\Santiago\EEST1\2022-7B-PDISC\clase-1-repaso\Repaso\obj\Debug\netcoreapp3.1\Repaso.csproj.AssemblyReference.cache
+D:\Santiago\EEST1\2022-7B-PDISC\clase-1-repaso\Repaso\obj\Debug\netcoreapp3.1\Repaso.GeneratedMSBuildEditorConfig.editorconfig
+D:\Santiago\EEST1\2022-7B-PDISC\clase-1-repaso\Repaso\obj\Debug\netcoreapp3.1\Repaso.AssemblyInfoInputs.cache
+D:\Santiago\EEST1\2022-7B-PDISC\clase-1-repaso\Repaso\obj\Debug\netcoreapp3.1\Repaso.AssemblyInfo.cs
+D:\Santiago\EEST1\2022-7B-PDISC\clase-1-repaso\Repaso\obj\Debug\netcoreapp3.1\Repaso.csproj.CoreCompileInputs.cache
+D:\Santiago\EEST1\2022-7B-PDISC\clase-1-repaso\Repaso\obj\Debug\netcoreapp3.1\Repaso.dll
+D:\Santiago\EEST1\2022-7B-PDISC\clase-1-repaso\Repaso\obj\Debug\netcoreapp3.1\Repaso.pdb
+D:\Santiago\EEST1\2022-7B-PDISC\clase-1-repaso\Repaso\obj\Debug\netcoreapp3.1\Repaso.genruntimeconfig.cache
